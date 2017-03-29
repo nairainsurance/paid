@@ -1,0 +1,2 @@
+# paid
+GitHub Pages
